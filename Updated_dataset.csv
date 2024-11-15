@@ -1,0 +1,87 @@
+,Biomass,TP,TemP,Time (min),PS,BET,PV,C,H,N,O,Qm (mg/g)
+0,Waste sludge (paper),Citalopram,315.0,150.0,9.82,3.43,0.02,30.84,2.14,0.43,20.32,4.4
+1,Waste sludge (paper),Citalopram,600.0,10.0,1.37,94.39,0.06,30.69,0.96,0.32,20.41,3.8
+2,Waste sludge (paper),Citalopram,800.0,10.0,1.37,120.86,0.08,28.81,0.47,0.33,19.29,8.5
+3,Waste sludge (Biological),Citalopram,800.0,150.0,1.41,209.12,0.13,27.05,0.82,0.33,9.73,19.6
+4,Waste sludge (Biological),Citalopram,800.0,10.0,3.69,10.82,0.02,35.35,0.72,2.47,2.01,4.3
+5,Waste sludge (Biological),Citalopram,800.0,10.0,15.46,2.36,0.02,42.07,0.7,3.1,1.68,2.2
+6,Pinewood,Salicylic acid,425.0,0.33,3.82,1.35,0.1,73.14,3.27,0.32,23.27,22.7
+7,Pinewood,ibuprofen,425.0,0.33,4.13,1.35,0.06,73.14,3.27,0.32,23.27,10.74
+8,Burcucumber plants,sulfamethazine ,300.0,120.0,3.07,0.85,0.0,65.98,5.55,5.08,23.09,15.66
+9,Burcucumber plants,sulfamethazine ,300.0,120.0,5.42,1.22,0.0,68.1,5.11,5.1,21.43,14.68
+10,Burcucumber plants,sulfamethazine ,700.0,120.0,6.8,2.31,0.01,69.41,1.31,4.61,24.45,20.56
+11,Burcucumber plants,sulfamethazine ,700.0,120.0,8.39,7.1,0.04,50.55,1.66,2.54,44.88,37.73
+12,Corn stalk,Triclosan,550.0,240.0,10.63,16.8,0.38,56.4,2.13,2.29,13.4,24.6
+13,Corn stalk,Triclosan,550.0,240.0,3.82,18.7,0.19,77.4,3.12,4.22,10.7,15.0
+14,Fallen leaves ,Triclosan,550.0,240.0,10.63,12.9,0.38,56.5,2.43,13.6,1.99,15.0
+15,Biosolids from muncipal waste,Triclosan,400.0,240.0,12.37,123.0,0.39,31.8,3.4,4.41,19.4,21.0
+16,Maize straw ,Oxytetracycline ,300.0,90.0,3.26,0.48,0.04,60.0,2.87,2.49,22.2,16.0
+17,Eucalyptus sawdust ,Nitroimidazole,500.0,90.0,3.26,3.15,0.0,88.18,2.57,0.37,12.37,16.0
+18,Eucalyptus sawdust ,Metronidazole,500.0,90.0,1.96,882.04,0.43,71.35,1.16,0.36,19.8,18.28
+19,Eucalyptus sawdust ,Dimetridazole,500.0,90.0,1.96,882.04,0.43,71.35,1.16,0.36,19.8,20.0
+20,Parthenium hysterophorus,ibuprofen,500.0,60.0,1.32,308.0,0.38,56.86,1.9,1.99,11.8,3.76
+21,paper mill sludge,Benzocaine,800.0,150.0,1.45,258.0,0.04,66.7,1.08,0.3,1.94,51.4
+22,Potato plant stem clay,Norfloxacin,500.0,360.0,5.42,90.4,0.12,75.81,0.58,0.92,19.3,3.12
+23,biological sludge (Ferric activation),Tetracycline,750.0,120.0,8.54,2.33,0.01,21.86,0.98,1.71,15.04,64.41
+24,biological sludge,Tetracycline,750.0,120.0,4.44,126.86,0.16,30.38,0.92,1.58,12.02,15.23
+25,waste chicken feathers,Tetracycline,800.0,60.0,2.88,1838.86,1.03,66.06,3.38,14.15,16.41,231.14
+26,Straw biochar,sulfamethazine ,300.0,90.0,10.63,0.48,0.01,53.62,3.55,3.8,16.72,21.36
+27,Straw biochar,sulfamethazine ,600.0,90.0,6.78,3.15,0.0,43.3,1.68,1.5,9.53,3.06
+28,Califlower Roots ,Norfloxacin,500.0,360.0,3.12,232.15,0.15,84.4,0.0,0.0,12.89,29.5
+29,Cassava waste,Norfloxacin,500.0,60.0,2.42,128.42,0.01,72.3,2.56,0.35,24.7,1.97
+30,Aegle marmelos shell,ibuprofen,650.0,60.0,3.82,4.4,0.18,72.86,0.0,0.0,16.05,5.0
+31,Aegle marmelos shell,ibuprofen,800.0,90.0,3.82,308.0,0.38,74.53,0.0,0.0,20.93,12.66
+32,Thalia dealbata,sulfamethazine ,500.0,240.0,10.63,7.1,0.01,64.36,2.95,1.81,13.84,1.45
+33,Thalia dealbata,sulfamethazine ,500.0,240.0,2.42,110.6,0.18,54.5,2.64,1.26,20.58,3.49
+34,Rice Straw,Tetracycline,700.0,120.0,5.42,372.21,0.23,37.77,0.43,1.05,5.31,167.5
+35,Swine manure,Tetracycline,700.0,120.0,5.18,319.04,0.25,48.35,0.66,2.23,4.77,160.3
+36,Rice Straw,Tetracycline,400.0,120.0,20.63,6.74,0.02,50.02,3.52,1.62,17.36,8.25
+37,Swine manure,Tetracycline,600.0,120.0,17.04,21.69,0.05,55.33,1.67,1.15,11.21,14.18
+38,Rice Straw,Tetracycline,400.0,120.0,16.38,5.17,0.01,35.68,2.26,2.56,10.94,6.51
+39,Swine manure,Tetracycline,600.0,120.0,12.36,10.56,0.04,31.27,1.7,1.84,7.85,8.12
+40,wheat straw,Norfloxacin,450.0,360.0,9.85,20.1,0.14,52.4,10.3,2.03,25.2,7.25
+41,wheat straw - clay,Norfloxacin,500.0,360.0,21.7,112.6,0.6,58.8,1.16,1.85,27.0,18.2
+42,Tea leaves,Ciprofloxacin,450.0,30.0,4.44,8.06,0.01,48.05,4.46,3.12,43.74,16.72
+43,Cow Manure,Tetracycline,300.0,60.0,7.34,1.55,0.0,47.25,4.23,3.78,11.23,26.73
+44,Cow Manure,Tetracycline,500.0,60.0,5.89,1.77,0.0,43.08,1.6,2.15,7.17,15.06
+45,Cow Manure,Tetracycline,700.0,60.0,3.0,31.23,0.02,42.56,0.72,1.79,2.73,22.55
+46,Eucalypus ,Floxentine,500.0,480.0,3.82,335.0,0.17,83.61,1.56,0.41,12.75,6.41
+47,Hollow Tree,Floxentine,500.0,480.0,3.82,207.0,0.1,79.47,1.88,0.31,13.79,3.04
+48,Quince,Floxentine,500.0,480.0,3.82,230.0,0.12,79.92,1.55,0.62,12.85,2.21
+49,Vine,Floxentine,500.0,480.0,3.82,62.0,0.03,80.31,1.73,0.93,11.13,2.9
+50,Walnut tree,Floxentine,500.0,480.0,3.82,219.0,0.11,81.58,2.12,0.64,10.79,2.37
+51,Corn straw,Tetracycline,600.0,150.0,3.33,56.18,0.03,85.06,0.84,0.61,4.14,1.14
+52,Corn straw,Tetracycline,600.0,150.0,5.42,115.43,0.07,56.27,0.77,0.45,10.47,6.77
+53,Corn straw,Tetracycline,600.0,150.0,5.18,48.41,0.02,64.13,0.11,0.67,8.29,4.2
+54,Spirulina sp. (microalgae),Tetracycline,750.0,120.0,5.42,2.63,0.01,66.6,1.3,9.42,12.25,147.9
+55,Alfalfa,Tetracycline,300.0,120.0,213.29,0.68,0.0,55.34,6.08,4.14,31.39,30.7
+56,Alfalfa,Tetracycline,800.0,120.0,213.29,50.58,0.01,70.33,1.06,4.71,11.75,55.62
+57,cauliflower leaves,Oxytetracycline,500.0,360.0,3.26,53.31,0.04,83.12,0.0,0.0,14.03,21.43
+58,caulifilore leaves,Oxytetracycline,500.0,360.0,5.89,68.62,0.1,24.93,0.0,0.0,38.22,54.16
+59, cauliflower leaves and FEcl3,Oxytetracycline,500.0,360.0,6.86,74.06,0.13,26.89,0.0,0.0,39.72,54.53
+60,Coffee Grounds,Sulfadiazine,500.0,120.0,9.87,1.46,0.0,75.39,4.81,3.48,15.09,0.22
+61,Coffee Grounds,Sulfamethoxazole,400.0,120.0,10.01,2.29,0.01,76.35,3.2,3.59,14.43,0.48
+62,torrefeied lololly pine chips ,ibuprofen,300.0,15.0,3.82,1151.0,0.63,83.8,0.24,0.3,13.0,14.6
+63,vallisneria natan,Diclofenac ,450.0,120.0,12.37,22.77,0.04,21.95,1.08,2.42,4.17,25.67
+64,River sediment,Diclofenac ,450.0,120.0,6.36,18.27,0.04,9.46,0.39,0.17,1.42,36.45
+65,potamogeton malaianus ,Diclofenac ,450.0,120.0,9.9,22.87,0.04,14.35,0.83,0.75,5.17,28.94
+66,potampgeton crispus,Diclofenac ,450.0,120.0,10.63,9.86,0.04,20.04,0.7,2.43,4.41,35.26
+67,Processing waste,ibuprofen,950.0,0.1,1.45,468.2,0.19,76.28,1.85,1.82,13.22,12.3
+68,Processing waste,ibuprofen,950.0,0.1,1.32,322.0,0.12,58.52,1.22,1.52,5.83,30.6
+69,Sludge (pharmaceutical),Tetracycline,600.0,60.0,3.82,214.97,0.32,35.43,1.42,2.21,6.03,102.83
+70,Sludge (pharmaceutical),Tetracycline,600.0,60.0,3.82,319.8,0.54,73.35,2.57,2.57,0.67,157.69
+71,Chinese herbal medicine residues (Plant),Tetracycline,500.0,120.0,7.97,31.74,0.06,36.42,2.34,1.76,55.01,92.61
+72,bagasse (Pristine),Sulfamethoxazole,800.0,120.0,1.79,496.03,0.23,89.57,2.4,0.9,7.13,35.43
+73,bagasse (300 mM FeCl3),Sulfamethoxazole,400.0,120.0,1.98,24.51,0.02,72.42,3.32,1.96,22.3,12.99
+74,bagasse (300 mM FeCl3),Sulfamethoxazole,600.0,120.0,1.79,428.86,0.18,78.28,2.39,1.77,17.56,13.29
+75,bagasse (300 mM FeCl3),Sulfamethoxazole,800.0,120.0,1.73,613.87,0.29,75.58,1.87,0.8,21.74,187.31
+76,bagasse (100 mM FeCl3),Sulfamethoxazole,800.0,120.0,1.73,398.74,0.18,81.94,2.79,1.23,14.03,7.5
+77,bagasse (200 mM FeCl3),Sulfamethoxazole,800.0,120.0,1.73,558.12,0.25,74.86,2.89,0.97,21.28,122.84
+78,bagasse (500 mM FeCl3),Sulfamethoxazole,800.0,120.0,1.73,605.59,0.31,73.86,3.41,0.96,21.77,205.0
+79,Straw biochar,Tetracycline,300.0,60.0,42.83,140.08,0.31,43.49,1.74,0.73,24.3,98.33
+80,Straw biochar,Tetracycline,300.0,60.0,36.27,165.42,0.31,40.91,1.78,0.68,22.89,97.96
+81,Straw biochar,Tetracycline,300.0,60.0,213.29,28.13,0.03,48.13,1.53,1.0,48.96,37.8
+82,date stone biochar,ibuprofen,700.0,60.0,1.32,513.0,0.2,62.27,0.0,0.0,24.01,10.51
+83,date stone biochar,ibuprofen,700.0,60.0,1.32,342.0,0.13,46.13,0.0,0.0,32.25,13.87
+84,Wood chip biochar,ibuprofen,800.0,300.0,2.25,841.0,0.38,68.27,1.24,0.88,12.39,70.8
+85,Wood chip biochar,ibuprofen,800.0,420.0,4.68,477.0,0.38,38.35,1.04,0.94,4.61,84.9
